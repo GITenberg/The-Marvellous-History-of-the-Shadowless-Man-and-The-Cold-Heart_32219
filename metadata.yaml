@@ -39,6 +39,8 @@ creator:
     - http://en.wikipedia.org/wiki/Wilhelm_Hauff
     - http://de.wikipedia.org/wiki/Wilhelm_Hauff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32219#The-Marvellous-History-of-the-Shadowless-Man-and-The-Cold-Heart
 gutenberg_issued: '2010-05-02'
 gutenberg_type: Text
 identifiers:
